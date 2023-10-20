@@ -16,7 +16,7 @@
 <br/>
 
 ## react-redux?
-`react-redux`는 상태관리 도구 `Redux`를 `Redux`에서 더욱 편하게 사용할 수 있도록 돕는 라이브러리이다.
+`react-redux`는 상태관리 도구 `Redux`를 `React`에서 더욱 편하게 사용할 수 있도록 돕는 라이브러리이다.
 
 ### 설치
 리덕스를 적용하기 위해 `react-redux` 라이브러리를 설치한다
